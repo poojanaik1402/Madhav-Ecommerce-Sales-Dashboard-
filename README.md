@@ -64,11 +64,7 @@ The dashboard enables users to monitor key business metrics, identify high-perfo
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/poojanaik1402/Madhav-Ecommerce-Sales-Dashboard-/blob/main/Sales%20Dashboard.png)
 
 ---
 
